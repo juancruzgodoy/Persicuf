@@ -1,7 +1,5 @@
 # Persicuf - Plataforma E-commerce de Personalización de Ropa
 
-![Persicuf Home](https://i.imgur.com/k6tP4Lh.png)
-
 Persicuf es un proyecto full-stack que simula una plataforma de e-commerce completa, permitiendo a los usuarios registrarse, personalizar prendas de vestir, gestionar sus pedidos y realizar compras. El sistema está compuesto por un backend robusto desarrollado en .NET y un frontend moderno y reactivo construido con React.
 
 Este repositorio documenta la arquitectura, las tecnologías y las funcionalidades clave del proyecto, desarrollado como parte de un trabajo académico en equipo.
