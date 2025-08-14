@@ -1,0 +1,6 @@
+@Persicuf_HostAddress = http://localhost:5071
+
+GET {{Persicuf_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

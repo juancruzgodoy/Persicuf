@@ -1,0 +1,32 @@
+# dependencias de Node.js
+node_modules
+
+# Archivos de logs y de entorno de Node.js
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Archivos de compilación de frontend
+/dist
+/build
+
+# Visual Studio / .NET
+*.vs/
+[Bb]in/
+[Oo]bj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+*.DotSettings.user
+
+# Mac
+.DS_Store
